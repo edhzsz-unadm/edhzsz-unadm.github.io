@@ -1,7 +1,7 @@
 ---
 layout: media
-permalink: /about/
-title: "About Limo"
+permalink: /perfil/
+title: "Perfil"
 date: 2014-01-01
 excerpt:
 image:
@@ -11,10 +11,8 @@ image:
 ads: false  
 ---
 
-I'm a fugitive of three Math University Faculties now making a life as a Professional Software Developer, Sr. Procrastinator and Jr. Father.
+Mi nombre es Edgar aunque la mayor parte de la gente que me conoce me llama Limo. Tengo 33 años y trabajo como Desarrollador de Software desde hace 7 años.
 
-I have 6+ years of experience developing mostly web applications using C# and javascript.
+Soy fugitivo de tres Universidades en las cuales estudié Matemáticas, luego me fugué también de la carrera de Ciencias de la Computación de la última universidad.
 
-I love to solve problems and I like to participate in all kind of programming contests.
-
-Currently I'm working as a Software Developer for the United Nations Office in Vienna.
+Estoy inscrito a la carrera de Matemáticas que ofrece la UNADM y mi intención es titularme y ver la posibilidad de hacer una maestría en algunos años.
