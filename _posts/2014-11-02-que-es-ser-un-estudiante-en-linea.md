@@ -27,4 +27,4 @@ Enseñanza-Aprendizaje._ Madrid: Narcea.
 Revista portuguesa de pedagogía, 7-28.
 
 * Ortíz, J. R. (1998). _La educación a distancia en el umbral del nuevo paradigma telemático._
-Recuperado el 19 de Agosto de 2014, de (http://goo.gl/TNEVsb)[http://goo.gl/TNEVsb]
+Recuperado el 19 de Agosto de 2014, de [http://goo.gl/TNEVsb](http://goo.gl/TNEVsb)
