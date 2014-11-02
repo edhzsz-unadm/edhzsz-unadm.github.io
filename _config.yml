@@ -1,0 +1,52 @@
+# Site wide configuration
+title:            Edgar UNADM
+description:      Blog de Edgar para tareas de la UNADM
+logo:             # 120x120 px default image used for Twitter summary card
+teaser:           400x250.gif # 400x250 px default teaser image used in image archive grid
+locale:
+url:              http://localhost:4000 #http://localhost:4000 #http://edhzsz-unadm.github.io
+disqus-shortname: "limos-io"
+
+# Site owner
+owner:
+  name:  			    "Edgar Hernandez"
+  email:   			  edhzsz@gmail.com
+  twitter:        limowankenobi
+  google:
+    ad-client:    "ca-pub-9720253951703917"
+    ad-slot:      "6510116046"
+  bio:            "Edgar es un fugutivo de 5 Universidades, Desarrollador de Software Profesional, padre novato, aspirante a estudiante en la UNADM. La sexta es la vencida."
+  avatar:         limo.jpeg # 160x160 px image for author byline
+  # Social networking links used in footer. Update and remove as you like.
+  twitter:        limowankenobi
+  facebook:       
+  github:         https://github.com/LimoWanKenobi
+  stackexchange:  http://stackoverflow.com/users/149885/limo-wan-kenobi
+  linkedin:       http://www.linkedin.com/pub/edgar-said-hern%C3%A1ndez-s%C3%A1nchez/16/713/925/en
+  instagram:      
+  flickr:         https://www.flickr.com/photos/capcamgto/
+  tumblr:         
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:    https://plus.google.com/+EdgarSaidHernándezSánchez?rel=author 
+
+# Analytics and webmaster tools stuff goes here
+google_analytics_tracking_id:   UA-48372898-1
+google_analytics_default_url:  edhzsz-unadm.github.io 
+google_verify:      
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:         
+
+# Jekyll configuration
+timezone:    Europe/Vienna
+permalink:   pretty
+
+# defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "post"
+    values:
+      layout: "article"
+
+exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
