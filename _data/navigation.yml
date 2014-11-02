@@ -2,10 +2,10 @@
 
 - title: Blog
   url: /blog/
-  excerpt:
+  excerpt: Lista de articulos en blog.
   image:
 
 - title: Perfil
   url: /perfil/
-  excerpt:
-  image:
+  excerpt: Perfil de Edgar Hernandez.
+  image: limo.jpg
