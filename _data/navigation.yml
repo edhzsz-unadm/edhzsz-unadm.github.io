@@ -3,9 +3,9 @@
 - title: Blog
   url: /blog/
   excerpt: Lista de articulos en blog.
-  image:
+  image: estudiante_Linea_400x250.png
 
 - title: Perfil
   url: /perfil/
   excerpt: Perfil de Edgar Hernandez.
-  image: limo.jpg
+  image: limo.jpeg
