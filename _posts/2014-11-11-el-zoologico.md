@@ -12,8 +12,6 @@ comments: true
 share: 
 categories: blog
 ---
-Problema
---------
 
 > Pepe fue al zoológico a visitar a los pandas, y cuando regresó, le contó a Arturo cuántos 
 pandas vio.
