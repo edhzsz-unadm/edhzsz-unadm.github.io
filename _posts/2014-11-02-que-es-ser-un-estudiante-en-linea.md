@@ -2,7 +2,7 @@
 layout: article
 title: "¿Qué es ser un estudiante en línea?"
 modified: 2014-11-02 19:04:08 +0100
-tags: [tarea, mapa mental]
+tags: [mapa mental, propedeutico]
 image:
   feature: 
   teaser: estudiante_Linea_400x250.png
