@@ -14,7 +14,7 @@ categories: blog
 ---
 
 <figure>
-  <a href="/images/Mapa_Estudiante_linea.png"><img src="/images/Mapa_Estudiante_linea.png"></a>
+  <a href="{{ site.url }}/images/Mapa_Estudiante_linea.png"><img src="{{ site.url }}/images/Mapa_Estudiante_linea.png"></a>
   <figcaption>Mapa conceptual que resume la lectura facilitada por la UNADM "¿Qué es ser un estudiante en línea?".</figcaption>
 </figure>
 
